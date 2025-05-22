@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<head><title>Ambika Patidar MD5 Cracker</title></head>
+<head><title>Nghe Tai Phat 496fc56d</title></head>
 <body>
 <h1>MD5 cracker</h1>
 <p>This application takes an MD5 hash
